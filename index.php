@@ -25,10 +25,10 @@
             </div>
             <div class="container collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav col-lg-6 navbar-center">
-                    <li class="menu-item" id="bs-example-navbar-collapse-1"><a href="#main_header">o nas</a></li>
+                    <li class="menu-item" id="bs-example-navbar-collapse-1"><a href="#main_header">start</a></li>
                     <li class="menu-item" id="bs-example-navbar-collapse-1"><a href="#info">informacje</a></li>
                     <li class="menu-item" id="bs-example-navbar-collapse-1"><a href="#training">szkolenia</a></li>
-                    <li class="menu-item" id="bs-example-navbar-collapse-1"><a href="#contact">contact</a></li>
+                    <li class="menu-item" id="bs-example-navbar-collapse-1"><a href="#contact">kontakt</a></li>
                 </ul>
             </div>
         </div>
@@ -188,18 +188,18 @@
     <section id="contact">
         <div class="container">
             <div class="row contact_form_info">
-                <h1 class="contact-info">CONTACT US</h1>
+                <h1 class="contact-info">Skontaktuj się z nami</h1>
                 <h2 class="contact-info">Praesentium voluptatum delenti atque corrupti</h2>
             </div>
             <div class="row contact_form_details">
                 <div id="contact_form" class='col-md-6'>
 
                     <form action="">
-                        <input type="text" class="form-control" id="name" placeholder="Your name">
+                        <input type="text" class="form-control" id="name" placeholder="Twoje imię i nazwisko">
                         </br>
-                        <input type="text" class="form-control" id="email" placeholder="Enter email">
+                        <input type="text" class="form-control" id="email" placeholder="Twój email">
                         </br>
-                        <input type="text" class="form-control" id="phone" placeholder="Your Phone">
+                        <input type="text" class="form-control" id="phone" placeholder="Numer telefonu">
                     </form>
 
                 </div>
@@ -208,7 +208,7 @@
                 </div>
             </div>
             </br>
-            <button class="btn btn-primary center-block">SEND MESSAGE!</button>
+            <button class="btn btn-primary center-block">Wyślij wiadomość!</button>
         </div>
     </section>
     <!--    kontakt section stop-->
